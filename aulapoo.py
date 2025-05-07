@@ -1,0 +1,17 @@
+#PRA SER METODO --- > DENTRO DE UMA CLASSE --- >  FUNÇÃO
+#APIS -- > TROCAS DE MENSAGEM
+#ABSTRAÇÃO / ENCAPSULAMENTO / HERANÇA / POLIMORFISMO -- > 4 PILARES DA POO
+#ABSTRAÇÃO -- > abstração é o princípio que permite esconder os detalhes internos da implementação e expor apenas o que é necessário para o uso de um objeto.
+#ENCAPSULAMENTO -- > GUARDAR/PROTEGER
+#HERANÇA -- > CRIAR UMA NOVA CLASSE A PARTIR DE UNA CLASSE QUE JÁ EXISTE (SUPER-CLASSE E CLASSE / OBJETO)
+#POLIMORFISMO (VÁRIAS FORMAS) -- > EXECUTAR O MÉTODO DE MANEIRA DIFERENTE
+#BASICAL CASE -- > A PRIMEIRA LETRA DE CADA PALAVRA É MAIÚSCULA (CLASSE)
+#CAMEL CASE -- > A partir da segunda, as letras das primeiras palavras são maiúsculas
+#MÉTODO CONSTRUTOR (MÉTODO ESPECIAL) -- > SERVE PARA COLOCAR TODOS OS ATRIBUTOS DENTRO DELE
+
+
+
+
+
+#ATRIBUTO -- > VARIAVEL
+#METODO -- > FUNÇÃO
